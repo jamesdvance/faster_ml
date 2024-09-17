@@ -1,2 +1,3 @@
-# faster_ml
-Diagrams and POCs from faster ml blog
+# Faster ML 
+
+Coding examples of speeding up ML, in whatever form. 
