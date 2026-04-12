@@ -1,0 +1,5 @@
+pandas
+pyarrow
+cudf-cu12 --extra-index-url=https://pypi.nvidia.com
+polars[gpu]
+tabulate
